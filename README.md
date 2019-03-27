@@ -14,5 +14,4 @@ $mix phx.gen.json Api Sumple sumple field1;string field2:text
 上記の記述でも実行は可能だが、deprecatedな記述であり、追加したControllerが使用できなくなるため使うべきではない
 
 $mix phx.migrate
-``'
-
+```
